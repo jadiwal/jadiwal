@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jadiwal
+- 👋 Hi, I’m @Deepak jadiwal
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...JavaSript, React JS, Node js
 - 💞️ I’m looking to collaborate on ...
