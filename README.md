@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Deepak jadiwal
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...JavaSript, React JS, Node js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...9820080697 or deepak.jadiwal2@gmail.com
+- 👀 I’m a...Software Developer
 
 <!---
 jadiwal/jadiwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
